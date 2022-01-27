@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class sum_twonumber;{
+public class sum_twonumber {
 public static void main(String[]args){
         system.out.println("taking input from user");
         Scanner sc=new scanner(system.in);
@@ -9,7 +9,10 @@ public static void main(String[]args){
         int b= sc.nectInt;
         int sum=a+b;
         system.out.println("the sum of two  number is");
-        system.out.println("sum");
+        system.out.println("sum Equals to");
+        
+        
+        
 
         }
 
