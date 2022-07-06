@@ -7,7 +7,7 @@ public static void main(String[]args){
         int a= sc.nectInt;
         system.out.println("enter the second number");
         int b= sc.nectInt;
-        int sum=a+b+c+d;
+        int sum=c+d;
         int diff = a-b;
         system.out.println("the sum of two  number is");
         
