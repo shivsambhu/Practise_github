@@ -8,8 +8,9 @@ public static void main(String[]args){
         system.out.println("enter the second number");
         int b= sc.nectInt;
         int sum=a+b;
+        int diff = a-b;
         system.out.println("the sum of two  number is");
-        system.out.println("sum Equals to");
+        
         
         
         
